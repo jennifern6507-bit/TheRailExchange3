@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>The Rail Exchange™ — Marketplace</title>
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<header class="navbar">
+<div class="logo">
+<img src="https://github.com/user-attachments/assets/86b2a4dc-5b2e-47bd-9e0c-caa15210b5a0" alt="The Rail Exchange Logo" />
+</div>
+<nav>
+<a href="index.html">Home</a>
+<a href="platform.html">Marketplace</a>
+<a href="contractors.html">Contractors</a>
+<a href="shippers.html">Shippers</a>
+<a href="pricing.html">Pricing</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+
+
+<section class="hero">
+<h1>The Rail Exchange™ — The Rail Track Bidding Marketplace</h1>
+<p>The first digital platform where railroads, shippers, industries, and engineering firms can post track projects — and qualified rail contractors can bid on them.</p>
+<div class="cta-group">
+<a href="platform.html" class="btn primary">Browse Active Bids</a>
+<a href="contractors.html" class="btn secondary">Join as a Contractor</a>
+</div>
+</section>
+
+
+<section class="section light">
+<h2>The Modern Way to Source Rail Contractors</h2>
+<p>A centralized marketplace built specifically for rail infrastructure — from tie programs and surfacing to new construction and emergency repairs.</p>
+</section>
+
+
+<section class="section dark">
+<h2>How It Works</h2>
+<div class="three-col">
+<div class="card">
+<h3>Post Your Track Project</h3>
