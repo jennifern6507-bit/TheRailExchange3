@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Contact — The Rail Exchange™</title>
+  <title>Sign In — The Rail Exchange™</title>
   <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
@@ -18,48 +18,31 @@
     <a href="shippers.html">Shippers</a>
     <a href="pricing.html">Pricing</a>
     <a href="about.html">About</a>
-    <a href="contact.html" class="active">Contact</a>
+    <a href="contact.html">Contact</a>
   </nav>
 </header>
 
 <section class="hero enterprise-hero">
-  <h1>Let’s Talk</h1>
-  <p>Questions? Need help getting started? Contact our team and we'll respond promptly.</p>
+  <h1>Sign In</h1>
+  <p>Access your dashboard to manage bids, projects, and communications.</p>
 </section>
 
 <section class="section light">
   <div class="container">
-    <form class="form" method="POST" action="#">
-      <label>Full name
-        <input type="text" name="name" required>
-      </label>
-
-      <label>Company
-        <input type="text" name="company">
-      </label>
-
+    <form class="form small-form" method="POST" action="#">
       <label>Email
         <input type="email" name="email" required>
       </label>
 
-      <label>Phone
-        <input type="tel" name="phone">
-      </label>
-
-      <label>Message
-        <textarea name="message" rows="6" required></textarea>
+      <label>Password
+        <input type="password" name="password" required>
       </label>
 
       <div class="form-actions">
-        <button class="btn primary" type="submit">Submit</button>
-        <button class="btn secondary" type="reset">Reset</button>
+        <button class="btn primary" type="submit">Sign In</button>
+        <a class="btn secondary" href="signup.html">Create Account</a>
       </div>
     </form>
-
-    <div style="margin-top:18px;">
-      <p>Support: <a href="mailto:support@therailexchange.com">support@therailexchange.com</a></p>
-      <p>Phone: (your number)</p>
-    </div>
   </div>
 </section>
 
